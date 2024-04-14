@@ -16,10 +16,10 @@ timezone:
 
 title: Saugat Regmi # the main title
 
-tagline: my personal blog website # it will display as the sub-title
+tagline: ML enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  blog, saugat, github
+  blog, saugat, github, ML enthusiast
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4D03AQEXHHYO4jUZEg/profile-displayphoto-shrink_200_200/0/1707051365841?e=1718841600&v=beta&t=xJxQpFy4CC_r55_me7PHDQ0bdp7qJQjiEaAt01QWoVs
+avatar: assets/imgs/personal/profile.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
