@@ -41,7 +41,6 @@ social:
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/regmi-saugat # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/saugat-regmi101/
 
 google_site_verification: # fill in to your verification string
@@ -76,7 +75,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://twitter.com/saugatregmi59/photo
+avatar: /assets/img/personal/saugat_regmi.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
